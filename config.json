@@ -1,0 +1,32 @@
+{
+	"database": {
+		"hostname": "localhost",
+		"port":		3306,
+		"username":	"root",
+		"password":	"",
+		"database":	"pineapple",
+		"prefix":	"K3_",
+		"tables":	{
+			"USERS":			"users",
+			"USERS_DATA":			"users_data",
+			"USERS_FLAGS":			"users_flags",
+			"IGNORE_LIST":			"users_ignore",
+			"MESSAGES":			"messages",
+			"CHANNELS":			"channels",
+			"CHANNELS_CATEGORIES":		"channels_categories",
+			"CHANNELS_STYLES":		"channels_styles"
+		}
+	},
+	"ssl": {
+		"enabled":	false,
+		"cert":		"/path/to/cert.pem",
+		"key":		"/path/to/key.pem"
+	},
+	"chatserver": {
+		"port":		2710
+	},
+	"client": {
+		"bundle":	"120bd523",
+		"original":	false
+	}
+}
