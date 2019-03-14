@@ -3,6 +3,7 @@ A full emulated and implemented Web- &amp; ChatServer with API using protobuf
 
 ## Help & Some stuff
 You can find some informations in our [Wiki](https://github.com/PineappleK3/Emulator/wiki/) with following contents:
+* [[Setup] Database & Accounts](https://github.com/PineappleK3/Emulator/wiki/%5BSetup%5D-Database-&-Accounts)
 * [[Configuration] config.json](https://github.com/PineappleK3/Emulator/wiki/%5BConfiguration%5D-config.json)
 * [[Protocol] Implementation Status](https://github.com/PineappleK3/Emulator/wiki/%5BProtocol%5D-Implementation-Status)
 * [[Security] User's password](https://github.com/PineappleK3/Emulator/wiki/%5BSecurity%5D-User's-password)
