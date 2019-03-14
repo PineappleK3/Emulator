@@ -2,10 +2,10 @@
 A full emulated and implemented Web- &amp; ChatServer with API using protobuf
 
 ## Help & Some stuff
-You can find some informations in our [Wiki](wiki/) with following contents:
-* [[Configuration] config.json]wiki/(%5BConfiguration%5D-config.json)
-* [[Protocol] Implementation Status](wiki/%5BProtocol%5D-Implementation-Status)
-* [[Security] User's password]wiki/(wiki/%5BSecurity%5D-User's-password)
+You can find some informations in our [Wiki](/PineappleK3/Emulator/wiki) with following contents:
+* [[Configuration] config.json](/PineappleK3/Emulator/wiki%5BConfiguration%5D-config.json)
+* [[Protocol] Implementation Status](/PineappleK3/Emulator/wiki%5BProtocol%5D-Implementation-Status)
+* [[Security] User's password](/PineappleK3/Emulator/wiki%5BSecurity%5D-User's-password)
 
 ## Licensing
 **ONLY** the server is `OpenSource` under **MIT**-License, because it's self-written and uses some public source code.
